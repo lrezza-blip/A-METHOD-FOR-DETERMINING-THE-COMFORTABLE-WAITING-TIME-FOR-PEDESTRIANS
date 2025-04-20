@@ -1,2 +1,2 @@
-# A-METHOD-FOR-DETERMINING-THE-COMFORTABLE-WAITING-TIME-FOR-PEDESTRIANS
-The repository is dedicated to the master's thesis on the topic "development of a method for determining the comfortable waiting time for a traffic light signal by pedestrians in calculating the traffic light cycle"
+# МЕТОД ОПРЕДЕЛЕНИЯ КОМФОРТНОГО ВРЕМЕНИ ОЖИДАНИЯ РАЗРЕШАЮЩЕГО СИГНАЛА СВЕТОФОРА ПЕШЕХОДАМИ 
+Репозиторий посвящен магистерской работе по теме "разработка метода определения комфортного времени ожидания разрешающего сигнала светофора пешеходами в расчёте светофорного цикла"
