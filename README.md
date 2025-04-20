@@ -18,4 +18,5 @@
 *raw results.csv* - исходные данные полевых исследований, собранные на перекрестках;<br />
 *raw survey.csv* - исходные данные опроса;<br />
 *correlation matrix.csv* - анализ результирующего показателя с помощью матрицы корреляции;<br />
-*vissim model results.csv* - результаты работы метода по трем сценариям.<br />
+*vissim model results.csv* - результаты работы метода по трем сценариям;<br />
+*development of a method for determining the comfortable waiting time for a traffic light signal by pedestrians.pdf* - текст манистерской работы.<br />
